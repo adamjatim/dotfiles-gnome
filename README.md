@@ -14,7 +14,7 @@
     using [Blur-my-Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/">Blur-my-Shell)
     ![](./.git-img/image-3.png)
 
-    # Make sure go to _Panel_ section.
+    > Make sure go to _Panel_ section.
     + change inside _Customize Properties_.
         ![](./.git-img/image-4.png)
 
