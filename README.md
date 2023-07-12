@@ -9,15 +9,16 @@
 -  **OS** - Debian 12
 -  **Desktop Environment** - GNOME
 -  **Panel** - Gnome Panel
-  using [Blur-my-Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/">Blur-my-Shell)
-  ![](./.git-img/image-2.png)
+    ![](./.git-img/image-2.png)
+    using [Blur-my-Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/">Blur-my-Shell)
+    ![](./.git-img/image-3.png)
 
     # Make sure go to _Panel_ section.
     + change inside _Customize Properties_.
-        ![](./.git-img/image-3.png)
+        ![](./.git-img/image-4.png)
 
     + change inside _Override background_.
-        ![](./.git-img/image-4.png)
+        ![](./.git-img/image-5.png)
 
 -  **File Manager** - Thunar
 -  **Terminal** - Kitty
