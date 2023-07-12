@@ -2,7 +2,7 @@
 
 > this is my gnome dotfile.
 
-![adamjatim](https://raw.githubusercontent.com/adamjatim/dotfiles-gnome-12/main/.git-img/image.png)
+![adamjatim](./.git-img/image-1.png)
 
 ## INFO
 
@@ -10,6 +10,7 @@
 -  **Desktop Environment** - GNOME
 -  **Panel** - Gnome Panel
     ![](./.git-img/image-2.png)
+
     using [Blur-my-Shell](https://extensions.gnome.org/extension/3193/blur-my-shell/">Blur-my-Shell)
     ![](./.git-img/image-3.png)
 
