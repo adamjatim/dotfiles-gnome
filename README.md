@@ -11,11 +11,14 @@
 -  **Panel** - Gnome Panel
   using <a href="https://extensions.gnome.org/extension/3193/blur-my-shell/">Blur-my-Shell</a>
   <img src="./.git-img/image-2.png">
+  
     + make sure go to _Panel_ section.
     + change inside _Customize Properties_.
         <img src="./.git-img/image-3.png">
+
     + change inside _Override background_.
         <img src="./.git-img/image-4.png">
+
 -  **File Manager** - Thunar
 -  **Terminal** - Kitty
 -  **Shell** - starship
