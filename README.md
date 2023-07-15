@@ -1,4 +1,4 @@
-# dotfiles-gnome-12
+# dotfiles-gnome
 
 > this is my gnome dotfile.
 
